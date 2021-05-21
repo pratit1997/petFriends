@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "121246610567",
+    "project_id": "petfriend-70d38",
+    "storage_bucket": "petfriend-70d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121246610567:android:41a65c9a24633357ebb422",
+        "android_client_info": {
+          "package_name": "com.example.matchpets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121246610567-73m78pk1sj5j3p1lbp6te30f7fh0mv3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgbueDC-v-t1Maa48MKaLAzVVSbg_ZPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121246610567-73m78pk1sj5j3p1lbp6te30f7fh0mv3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121246610567:android:ec09708243669c01ebb422",
+        "android_client_info": {
+          "package_name": "com.example.rentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121246610567-73m78pk1sj5j3p1lbp6te30f7fh0mv3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgbueDC-v-t1Maa48MKaLAzVVSbg_ZPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121246610567-73m78pk1sj5j3p1lbp6te30f7fh0mv3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
